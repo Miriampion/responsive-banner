@@ -16,7 +16,7 @@ html {
 }
 
 a:hover {
-  border-color: #fff;
+  border-color: #efefef;
 }
 
 .text {
@@ -28,7 +28,7 @@ a:hover {
 .text {
   position: absolute;
   background-color: transparent;
-  background-image: linear-gradient(rgba(73, 85, 98, 0), rgba(73, 85, 98, .9);
+  background-image: linear-gradient(rgba(73, 85, 98, 0), rgba(73, 85, 98, .9));
 }
 
 }
