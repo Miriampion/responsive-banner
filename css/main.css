@@ -6,11 +6,17 @@ html {
 
 .img {
   max-height: 500px;
+  overflow: hidden;
 }
 .btn {
  border-color: #97a49b;
+ color: #fff;
+}
+
+a:hover {
+  border-color: #fff;
 }
 
 .text {
- background-color: linear-gradient(0,rgba(73, 85, 98, .9);
+ background-color: linear-gradient(rgba(73, 85, 98, 0),rgba(73, 85, 98, .9);
 }
