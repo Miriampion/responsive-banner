@@ -8,9 +8,9 @@ html {
   max-height: 500px;
 }
 .btn {
- border-radius:
+ border-color: #97a49b;
 }
 
 .text {
-
+ background-color: linear-gradient(0,rgba(73, 85, 98, .9);
 }
